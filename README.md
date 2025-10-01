@@ -13,5 +13,8 @@ This repository is an index of selected study projects. Each link goes to a sepa
 - [Customer Order Management System](https://github.com/Samer-Khatib/customer-order-management)  
   C# .NET 8 console app with layered architecture, JSON data storage, structured logging, and unit tests using NUnit and Moq.
 
+- [Microservices Card Game](https://github.com/Samer-Khatib/microservices-card-game)  
+  A distributed card game built with **Spring Boot microservices** architecture. Demonstrates REST communication and event-driven messaging between services.
+
 ## How to use
 Each project has its own README with setup instructions.
