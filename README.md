@@ -13,7 +13,7 @@ This repository is an index of selected study projects. Each link goes to a sepa
 - [Customer Order Management System](https://github.com/Samer-Khatib/customer-order-management)  
   C# .NET 8 console app with layered architecture, JSON data storage, structured logging, and unit tests using NUnit and Moq.
 
-  - [Webutvikling Project](https://github.com/Samer-Khatib/Webutvikling)  
+- [Webutvikling Project](https://github.com/Samer-Khatib/Webutvikling)  
   Spring Boot + MongoDB backend with OAuth integration. Built for coursework in web development and API design.
 
 ## How to use
